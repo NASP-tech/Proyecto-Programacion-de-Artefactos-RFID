@@ -2,14 +2,14 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 // WiFi parameters
-#define WLAN_SSID       "MAXIMUS"
-#define WLAN_PASS       "SipsonAhrs2226"
+#define WLAN_SSID       ""
+#define WLAN_PASS       ""
  
 // Adafruit IO
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "natsol"
-#define AIO_KEY         "aio_zZNc12jECxd6jBlaJLMkQRYuK2VQ"  // Obtained from account info on io.adafruit.com
+#define AIO_USERNAME    ""
+#define AIO_KEY         ""  // Obtained from account info on io.adafruit.com
  
 // Create an ESP8266 WiFiClient class to connect to the MQTT server.
 WiFiClient client;
