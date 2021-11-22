@@ -11,8 +11,8 @@
 # RFID-n-TECH
 
 #### * Solórzano Paz, Natalia Alexandra 00120319
-### * Carcamo Aguilar, Fernando Rene 00084219
-### * Flores Alas, Omar Rafael 00038619
+#### * Carcamo Aguilar, Fernando Rene 00084219
+#### * Flores Alas, Omar Rafael 00038619
 
 ### 02-2021
 
